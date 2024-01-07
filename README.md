@@ -3,7 +3,7 @@
  ###  🍀 Skills 🍀
   
   #### FRONT
-  <div style="display:flex;">
+  <div style="display:flex;" align=center>
     <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7D358?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -11,7 +11,7 @@
   </div>
   
   #### BACK
-  <div style="display:flex;">
+  <div style="display:flex;" align=center>
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -22,7 +22,7 @@
   # 
   
   ###  🍀 Tech's that I've used at least once 🍀
-  <div style="display:flex;">
+  <div style="display:flex;" align=center>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
