@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=JaeryunJeong&fontSize=70)
- 
+ <div align=center>
  ###  🍀 Skills 🍀
   
   #### FRONT
@@ -18,9 +18,9 @@
     <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   </div>
-
+</div>
   # 
-  
+ <div align=center>
   ###  🍀 Tech's that I've used at least once 🍀
   <div style="display:flex;" align=center>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -33,9 +33,9 @@
     <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   </div>
-  
+ </div>
   # 
-  
+  <div align=center>
   <span>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongjaeryun&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" height="180px" />
   </span>
@@ -43,7 +43,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=jeongjaeryun&theme=tokyonight&show_icons=true" height="180px" />
   </span>
 </div>
-
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)
 
