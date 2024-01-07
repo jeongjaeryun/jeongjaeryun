@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=JaeryunJeong&fontSize=70)
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer)
  
  ###  🍀 Skills 🍀
   
@@ -46,7 +45,7 @@
 </div>
 
 
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer)
 
 <!--- 
 - 👋 Hi, I’m @jeongjaeryun
