@@ -1,28 +1,29 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=JaeryunJeong&fontSize=70)
- <div align=center>
+<div style="display:flex;" align=center>
  ###  🍀 Skills 🍀
   
   #### FRONT
-  <div style="display:flex;" align=center>
+  
     <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7D358?style=for-the-badge&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/JQuery-0769ad?style=for-the-badge&logo=jquery&logoColor=white"/>
   </div>
   
-  #### BACK
   <div style="display:flex;" align=center>
+  #### BACK
+  
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   </div>
-</div>
+   <div style="display:flex;" align=center>
   # 
- <div align=center>
+ 
   ###  🍀 Tech's that I've used at least once 🍀
-  <div style="display:flex;" align=center>
+
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
@@ -33,9 +34,9 @@
     <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   </div>
- </div>
+   <div align=center>
   # 
-  <div align=center>
+ 
   <span>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongjaeryun&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" height="180px" />
   </span>
