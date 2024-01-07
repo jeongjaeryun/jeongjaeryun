@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=JaeryunJeong&fontSize=70)
+#
 <div align=center>
 
   ## 🍀Skills🍀
@@ -18,6 +19,8 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </div>
 
+#
+
 <div align=center>
 
   ###  🍀 Tech's that I've used at least once 🍀
@@ -30,6 +33,8 @@
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </div>
+
+#
 
 <div align=center>
   
