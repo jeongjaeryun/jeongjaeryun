@@ -1,3 +1,4 @@
+<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=JaeryunJeong&fontSize=70)
 #
 <div align=center>
@@ -45,7 +46,7 @@
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)
-
+</div>
 <!--- 
 - 👋 Hi, I’m @jeongjaeryun
 - 👀 I’m interested in ...
