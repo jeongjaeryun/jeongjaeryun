@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=JaeryunJeong&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&width=100%&section=header&text=JaeryunJeong&fontSize=70)
 
 <div align=center>
 
